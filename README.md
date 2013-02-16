@@ -1,0 +1,1 @@
+ドキュメントのContentType(MIME タイプ)にcharset=UTF-8を付け外しするためのブックマークレット
